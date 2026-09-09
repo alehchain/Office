@@ -1,6 +1,6 @@
-# Microsoft Office 2024
+# Office
 
-Repositório com arquivos auxiliares para instalação e configuração do **Microsoft Office 2024** em ambiente Windows.
+Repositório com arquivos auxiliares para instalação e configuração em ambiente Windows.
 
 ## 📁 Conteúdo do repositório
 
@@ -26,11 +26,3 @@ Repositório com arquivos auxiliares para instalação e configuração do **Mic
 - Arquitetura 64 bits
 - Permissão de administrador
 - Conexão com a internet durante a instalação
-
-## ⚠️ Observação
-
-Este repositório reúne arquivos de apoio para instalação e configuração. O uso do Microsoft Office deve respeitar os termos de licenciamento da Microsoft e requer uma licença válida quando aplicável.
-
-## 👤 Autor
-
-**alehchain**
