@@ -1,0 +1,5 @@
+1) Abrir PowerShell (executar como administrador)
+
+2) Inserir o comando: irm https://get.activated.win | iex
+
+3) Escolher opção Office, aguardar processo depois fechar cmd.
